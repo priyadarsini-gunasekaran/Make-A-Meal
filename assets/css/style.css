@@ -1,0 +1,176 @@
+body { 
+    background-color: AntiqueWhite; 
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    } 
+    
+    h1 { 
+    color: black; 
+    font-size
+    : 200%; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    } 
+    
+    h2 {
+    font-size: 175%; 
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    } 
+    
+    h3 { 
+    color: Brown; 
+    font-size: 200%; 
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    text-align: center;
+    } 
+    
+    h4 { 
+    color: Crimson; 
+    font-size: 150%; 
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    } 
+    
+    p { 
+    color: black; 
+    font-size: 100%; 
+    font-family: "Times New Roman", Times, serif;
+    } 
+    
+    table, th, td {
+      border: 2px solid DarkSeaGreen;
+    }
+    
+    table {
+      border-collapse: collapse;
+      width: 80%;
+    }
+    
+    th {
+      background-color: DarkSalmon;
+      color: DarkSlateGray;
+      height: 70px;
+      text-align: center;
+      vertical-align: middle;
+    }
+    
+    td {
+      height: 50px;
+      text-align: center;
+      vertical-align: middle;
+    }
+    
+    .highlight { 
+    background-color: LightCoral; 
+    color: white; 
+    text-align: left;
+    } 
+    
+    .highlight p { 
+    background-color: IndianRed; 
+    color: black; 
+    } 
+    
+    #pageHeader { 
+    background-color: darkseagreen; 
+    color: black; 
+    text-align: center; 
+    }    
+    
+         /* Style buttons */
+    .btn {
+    
+      background-color: ivory; /* background */
+      border: none; /* Remove borders */
+      color: ivory; /* text */
+      padding: 60% 50%; /* Some padding for drop down box size*/
+      font-size: 200%; /* Set a font size */
+      cursor: pointer; /* Mouse pointer on hover */
+    }
+    
+    
+              /* Style dropdown menu */ 
+    .dropdown {
+      display: inline-block;
+      position: relative;
+    }
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        width: 300%;
+        overflow: auto;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    }
+     .dropdown:hover .dropdown-content {
+        display: block;
+    }     
+      .dropdown-content a {
+        display: block;
+        color: green;
+        padding: 1px;
+        text-align: center;
+        background-color: white;
+        text-decoration: none;
+    }    
+    .dropdown-content a:hover {
+        color: #FFFFFF;
+        background-color: orange;
+    }
+    
+    #pageFooter {
+        border: 0px solid red;
+        font-size: 100%; 
+        font-family: Arial, Helvetica, sans-serif;
+        color: yellow;
+        background-color: black;
+      } 
+      
+    .imgStyle1 {
+      border-radius: 20%;
+      border: 10px solid lightblue;
+      opacity: 0.5;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .imgStyle2 {
+      border-radius: 50%;
+      border: 20px double lightblue;
+      filter: grayscale(0%);
+    }
+    
+    
+    .imgStyle3 {
+      border: 5px dotted red;
+      float: right;
+      box-shadow: 10px 10px lightblue;
+    }
+    
+    .imgStyle4 {
+      border: 5px dotted red;
+    }
+    
+    .imgStyle5 {
+      box-shadow: 10px 10px lightblue;
+    }
+    
+    .column {
+      float: left;
+    }
+    
+    .column.side {
+      width: 50%;
+    }
+    
+    .column.middle {
+      width: 60%;
+    }
+    
+    
+    .column.full{
+       width: 100%; 
+    }
+    
+    
+    
