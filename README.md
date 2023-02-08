@@ -90,7 +90,7 @@ GitHub: https://github.com/priyadarsini-gunasekaran
 LinkedIn: 
 
 <br>
-Sabina Akinbusuy
+Sabainah Akinbusuyi
 <br>
 GitHub: https://github.com/akinbusuyi
 <br>
@@ -116,7 +116,7 @@ Send the girls a star if you like this project :p
 <br>
 Acknowledgments
 <br>
-TheMealDB for the external API and LibreTranslate API are used in the project
+All API's provided by Rapid API website. TheMealDB for the external API and Google translate API are used in the project
 
 <br>
 License
