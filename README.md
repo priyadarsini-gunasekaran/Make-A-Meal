@@ -14,6 +14,7 @@ JavaScript
 Frameworks and Technologies used:
 Bootstrap
 Webpack
+RapidApi
 HTML
 CSS
 JAVASCRIPT
@@ -23,7 +24,7 @@ Live Demo：
 Demo 
 Project Presentation
 
-<br>
+
 To start your own recreation process, get a local copy up and running on your machine.
 <br>
 Enter this in your terminal:
