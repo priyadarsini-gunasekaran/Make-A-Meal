@@ -10,18 +10,39 @@ The WebApp use client-side storage to store persistent data. It is deployed to G
 
 <br>
 Built with:
+<ul>
+<li>
 Html
+</li>
+<li>
 Css
+</li>
+<li>
 JavaScript
+</li>
+</ul>
 
 <br>
 Frameworks and Technologies used:
+<ul>
+<li>
 Bootstrap
+</li>
+<li>
 Webpack
+</li>
+<li>
 RapidApi
+</li>
+<li>
 HTML
+</li>
+<li>
 CSS
+</li>
+<li>
 JAVASCRIPT
+</ul>
 
 <br>
 Demo：
